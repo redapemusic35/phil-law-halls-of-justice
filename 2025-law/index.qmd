@@ -1,0 +1,265 @@
+---
+title: "PHIL284 - Philosophy of Law and the Halls of Justice"
+subtitle: "Academic Year: 2025/26"
+format: html
+---
+
+Philosophy requires one to apply principles of reasoning to real dilemmas. In this course, you will enter The Halls of Justice — a living dungeon where every room is a moral crisis, a trial, a prison, or a ticking bomb. You will live Fuller, Hart, Dworkin, and Dershowitz, roll dice, break laws, judge, and be judged — then defend your choices and write a paper on one choice that broke you.
+
+## Goals:
+
+In general, philosophy requires one to apply principles of reasoning to different philosophical issues. Accordingly, one of my goals in this course is to help you improve your critical reasoning skills. These skills are useful not only with respect to this class, but to other philosophy and law classes as well. A second goal of mine is to teach you some of the fundamental philosophical ideas behind much of that which we call law. We will examine theories which attempt to provide answers to such questions as: What is a law? What makes a law valid or binding? Does one always have a moral obligation to obey the law? What gives society the right to punish people whose actions are harmful only to the individual, him/herself (paternalism)? Does society have the right to harm those who break the law (criminal punishment)? Should attempted crimes be punished less severely than completed crimes? We will not spend much time discussing specific public policy issues such as: Whether raising the drinking age saves lives, whether smoking marijuana is a victimless crime (whether it harms others), or whether the death penalty is a deterrent.
+
+1.	Improve critical reasoning through choice → consequence → argument.
+2.	Master fundamental ideas behind law:
+*	What is a law?
+*	What makes a law valid or binding?
+*	Must we obey unjust laws?
+*	Can society punish self-harm (paternalism)?
+*	Should attempts be punished less than results?
+3.	No policy debates (e.g., drinking age, marijuana). We ask: What ought the law to be?
+
+## Learning Objectives
+
+1.	Evaluate legal theories through in-game moral crises.
+2.	Defend positions using primary texts.
+3.	Write a reasoned critique of a legal philosopher.
+4.	Improve critical reasoning via choice → consequence → argument.
+
+### Evaluated Activities
+
+Grades will be based on the following scale:
+
+| | |
+|--|--|
+| A = | 360 and above |
+| B = | 320-359 |
+| C = | 280-319 |
+| D = | 240-279 |
+| F = | 239 and below |
+
+Four primary factors will go into determining your grade:
+
+| | |
+|--|--|
+| Quizzes		|	100 points |
+| Paper			| 100 points |
+| Examination One	|		100 points |
+| Final Examination		|	100 points |
+| Total | 400 points |
+
+#### Quizzes
+
+At the beginning of most class sessions, I will present the class with a quiz.  Quizzes will be based on the assigned readings and/or the discussion from the previous class.  Each quiz is worth six points (maximum), and I will give a total of nineteen quizzes.  I will drop the two lowest scored quizzes.  Since I include in your total-quiz-grade seventeen quizzes at six points per quiz, the total points possible on quizzes is 102.  If you should earn more than one-hundred points on quizzes, all additional points count as extra credit. Finally, since I give quizzes at the beginning of class, arriving to class on time is essential.  I will not repeat the quiz question(s) after the first person has turned in her/his quiz.  If you arrive late or are absent, you receive a zero for the quiz. I do give partial credit for quizzes, and just putting your name on the top is worth two points.
+
+(I may decide to ask the class to write some short “reaction papers” – one to two pages – in place of some quizzes. Each of the papers, like the quizzes, will be worth six points. If you are not present in class, you may miss these assignments.)
+
+You will need to bring one three-by-five-inch index card to each class period during which there is a quiz.
+
+#### Paper
+
+You are required to write one paper, which must be type-written, double-spaced, and eight to ten pages in length. Approximately four to six weeks before the paper is due, I will upload several essays to Canvas, and each student must choose ONE to which s/he will respond. If you wish to write a paper on a topic other than one of those suggested by me, you must clear it with me. (I will be more than happy to approve relevant topics.)
+
+The papers you write are not opinion papers. It is standard practice among philosophers to view mere opinion to be worth less than the energy used to express it. What is worthwhile is a reasoned defense of one's opinion. Your paper should be written to present rational argument for the position which you hold.
+
+Your paper should consist of two parts. The first part (4 to 5 pages) should be a short explication of the essay you have chosen.  This part should contain a statement of the author’s position, a statement of your own position (tell me whether you agree or disagree with the author) and an explanation of the author’s supporting arguments.  The second half of the paper should consist of your own evaluation or critique of the essay.  In this part of the paper, you should tell me WHY you agree or disagree with the author.  If you agree with the author, you should tell me what argument(s) are convincing.  Then tell me what argument(s) might be proffered by one who disagrees with the author and how the author might respond.  If you disagree with the author, you should provide criticism of the author’s essay and attempt to explain how the author might respond to the criticism.  Hence, whether you agree or disagree with the author, you should provide arguments against the author and responses thereto.  Finally, you should explain why you believe your position is the best position. You must NOT use outside sources for this essay.
+
+***Late Policy:*** Your paper must be turned in by the end of class on the date that it is due. Five points will be deducted for every twenty-four-hour period when a paper is late. Thus, if a paper is turned in at 8:00 p.m. on the date that it is due, five points will be deducted. If a paper is turned in at 8:00 p.m. on the day following the day that it is due, ten points will be deducted. This policy is in effect so that diligent students are not penalized.
+Due date for paper: All papers must be turned in by the end of class on Thursday, April 25th.
+
+#### Examinations
+
+The scheduled examinations will cover lectures, discussions and readings covered during the classes that precede it.  You are responsible for assigned readings without regard to whether they were covered in class.  The final examinations will cover the lectures, discussions and readings from the whole term, but will concentrate on those topics covered after the midterm examination.
+
+I generally do not give make-up examinations.  I believe that doing so penalizes those who diligently prepare for class.  There are several conditions, however, under which I will consider a make-up: 1) A student is sick during the exam, calls me before the exam, and provides me with a doctor’s note certifying that s/he was sick; 2) A major tragedy, like a death in the student’s family, which somehow denies the student the opportunity to prepare for or attend the examination; 3) The student has a conflicting university obligation (s/he should know about this well in advance of the examination and provide me with documentation); or 4) Some other reason, which I deem to be a justifiable cause for non-attendance.
+
+::: {.callout-important collapse=false}
+## 📢 Important
+
+(01/16/2026)
+
+- [🗓️ Week 01 lecture material](/2025-law/weeks/week01/page.qmd) is now available!
+
+:::
+
+
+# 🧑🏻‍🏫 Syllabus
+
+::: {.panel-tabset}
+## Course Convenor
+
+
+![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
+**[Reynolds](#)** <br/>
+ Dr. Monty Reynolds<br/>
+[Stetson University](#)</a><br/>
+📧 [mreynolds1@stetson.edu](mailto:)
+
+Office Hours:
+
+- When: TTH 1:00-3:00pm or by appointment
+- Where: Elizabeth Hall 104
+- How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
+
+## Course Information
+
+### Required Texts:
+
+Handouts provided via Canvas.
+
+### Expectations:
+
+Come prepared to engage with assigned readings in class, referencing specific passages as prompted by the instructor.
+
+Bring physical or digital copies of readings to class for annotation and short reflections.
+
+Submit all assignments via Canvas by the due date.
+
+Active participation and regular attendance are essential for success.
+
+### Late Assignment Policy
+
+Penalty: 10% deduction per day late.
+
+Makeup Process: Email the instructor within 48 hours to arrange an extension. No credit if not submitted by agreed date.
+
+### Additional Notes
+
+Canvas: Submit assignments and check grades regularly.
+
+Excel Setup: Rubric scores use IFS formulas (e.g., for Reflective Analysis: =IFS(rating="Excellent", 40, rating="Good", 30, rating="Needs Improvement", 20, rating="Unacceptable", 10)).
+
+Instructor Support: Email or [schedule](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink) a meeting for clarification.
+
+Success: Active participation, timely submissions, and attendance are key.
+
+## Course Evaluation
+
+Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
+
+### Weekly Reflections (5% of final grade, 32 points total):
+
+* Eight short reflections submitted via Canvas, due on the following dates: September 22, September 29, October 13, October 20, October 27, November 3, November 10, and November 17, 2025.
+
+* Format: Summarize an argument from the week's reading (3 short sentences) and provide a reflection (2 sentences).
+
+* Grading: Each reflection is scored holistically out of 4 points based on the rubric criteria (considering thesis, premises, support, and student response). Excellent (4 points), Good (3 points), Needs Improvement (2 points), Unacceptable (1 point).
+
+* The total for all reflections is 32 points.
+
+### Quiz 1  (25% of final grade, 160 points):
+
+
+* A ~1,200-word comprehensive essay covering all course material, due Oct 8, 2025.
+
+* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
+
+### Critical Reflection 1 (12.5% of final grade, 80 points):
+
+* A ~1,500-word essay covering material up to this point, due November 8, 2025.
+
+* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
+
+* Excel Formula: =SUM(category scores); scaled to 12.5% of final grade.
+
+### Presentation (15% of final grade, 96 points):
+
+* A ~5-minute elevator pitch on what you will argue in your 2nd Reflective Analysis, presented on November 19 or 24, 2025.
+
+* Requirements: Summarize an argument (3 sentences) and reflect (2 sentences) on a work of art from the readings.
+* Scheduling: Signup sheet provided in class; sessions on November 19 and 24.
+* Grading: Evaluated using the rubric with 4 categories, each scored 6–24 points (max 96). See rubric below.
+
+### Critical Reflection 2 (25% of final grade, 160 points):
+
+* A ~1,200-word essay analyzing Grant Tavinor's The Art of Videogames, due December 3, 2025.
+
+* Grading: Evaluated using the rubric with 4 categories, each scored 10–40 points (max 160). See rubric below.
+
+### Quiz 2 (12.5% of final grade, 80 points):
+
+* A ~1,500-word comprehensive essay covering all course material, due December 9, 2025.
+
+* Grading: Evaluated using the rubric with 4 categories, each scored 5–20 points (max 80). See rubric below.
+
+### Attendance (5% of final grade, 32 points):
+
+* Based on unexcused absences throughout the semester.
+
+Grading Scale (equal increments of 8 points):
+
+||||
+|---|---|---|
+| 0–1 | unexcused absences: | 32 points |
+| 2 | unexcused absences: | 24 points |
+| 3–4 | unexcused absences: | 16 points |
+| 5–6 | unexcused absences: | 8 points |
+| 6 | unexcused absences: | 0 points |
+
+## Rubrics
+
+***Weekly Reflections Rubric:*** (Per Reflection, Total 32 Points for 8 Reflections). The rubric is applied holistically to each reflection, with scores contributing to the 32-point total (e.g., per reflection max 4 points, scaled from category scores).
+
+* Grading: Sum of category scores per reflection (max 32 per reflection), but scaled/averaged across 8 reflections to total 32 points for the category. Excel shows example scores of 8 per category per date.
+
+***Reflective Analysis 1 & 2:*** (40, 30, 20, 10 per Category, Total 160 Points)
+
+* Grading: Sum of 4 categories (max 160 points). Excel formula: =SUM(category scores); percentage = (total/160)*100.
+
+***Essay 1 & 2:*** (20, 15, 10, 5 per Category, Total 80 Points)
+
+* Grading: Sum of 4 categories (max 80 points). Excel formula: =SUM(category scores); percentage = (total/80)*100.
+
+***Presentation:*** (24, 18, 12, 6 per Category, Total 96 Points)
+
+* Grading: Sum of 4 categories (max 96 points). Excel formula: =SUM(category scores); percentage = (total/96)*100.
+
+| Category | Excellent | Good | Needs Improvement | Unacceptable |
+|---|---|---|---|---|---|
+| Thesis | A clear statement of the main conclusion of the paper. | The thesis is obvious, but there is no single clear statement of it. | The thesis is present, but must be uncovered or reconstructed from the text of the paper. | There is no thesis. |
+| Premises | Each reason for believing the thesis is made clear, and as much as possible, presented in single statements. It is also clear which premises are to be taken as given, and which will be supported by sub-arguments.  The paper provides sub-arguments for controversial premises. If there are sub-arguments, the premises for these are clear, and made in single statements. The premises which are taken as given are at least plausibly true. | The premises are all clear, although each may not be presented in a single statement. It is also pretty clear which premises are to be taken as given, and which will be supported by sub-arguments. The paper provides sub-arguments for controversial premises. If there are sub-arguments, the premises for these are clear. The premises which are taken as given are at least plausibly true. | The premises must be reconstructed from the text of the paper. It is not made clear which premises are to be taken as given, and which will be supported by sub-arguments. There are no sub-arguments, or, if there are sub-arguments, the premises for these are not made clear. The paper does not provide sub-arguments for controversial premises. The plausibility of the premises which are taken as given is questionable. | There are no premises—the paper merely restates the thesis. Or, if there are premises, they are much more likely to be false than true. |
+| Support | The premises clearly support the thesis, and the author is aware of exactly the kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true. | The premises support the thesis, and the author is aware of the general kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true. | The premises somewhat support the thesis, but the author is not aware of the kind of support they provide. The argument is invalid, and the thesis, based on the premises, is not likely to be or plausibly true. | The premises do not support the thesis. |
+| Student Response | The paper considers both obvious and unobvious counter-examples, counter-arguments, and/or opposing positions, and provides original and/or thoughtful responses. | The paper considers obvious counter-examples, counter-arguments, and/or opposing positions, and provides responses. | The paper may consider some obvious counter-examples, counter-arguments, and/or opposing positions, but some obvious ones are missed. Responses are non-existent or mere claims of refutation. | No counter-examples, counter-arguments, or opposing positions are considered. |
+
+## Grading Calculation
+
+Total Points: 640 points, distributed as above.
+
+* Formula: Raw scores summed across sheets; final percentage = SUM(all assignment points)/640 * 100.
+
+***Letter Grade:***
+
+Final grade uses the following scale (no rounding):
+
+| Letter Grade | Percentage |
+|---|---|
+| A+ | 97–100% |
+| A | 93–96% |
+| A- | 90–92% |
+| B+ | 87–89% |
+| B | 83–86% |
+| B- | 80–82% |
+| C+ | 77–79% |
+| C | 73–76% |
+| C- | 70–72% |
+| D+ | 67–69% |
+| D | 63–66% |
+| D- | 60–62% |
+| F | <60% |
+
+Example: Perfect scores = 32 + 160 + 160 + 80 + 80 + 96 + 32 = 640 points (100%, A+).
+
+:::
+
+# 📍 Lecture
+
+See Class Times Below
+
+# 💻 Class Groups
+
+::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
+
+- 📆 Mondays and Wednesdays
+- ⌚ 10:30am - 11:45am
+
+:::

@@ -1,0 +1,134 @@
+-the official D&D Basic Rules with Philosophy of Law mechanics.
+
+## Creating a Ju--
+title: "The Halls of Justice"         stice-Seeker
+
+##        # Step 1: Choose a School of Jurisprudence
+
+
+| School | Belief | Bonus |
+|--------|--------|-------|
+| Natural Law | Law must be just | +2 resist unjust orders |
+| Legal Positivism | Law is valid if made | +2 cite statutes |
+| Legal Realism | Law is what judges do | +2 predict rulings |
+| Critical Legal Studies | Law serves power | +2 expose bias |
+
+### Step 2: Assign Ability Scores
+
+
+1. Logic
+2. Authority
+3. Empathy
+4. Pragmatism
+5. Integrity
+6. Courage
+
+### Step 3: Write your Oath
+
+“What is law?” (1 sentence)
+
+Roll d20 + Empathy → Oath Score
+                                     recedent-setting |
+                                     3 | Tyranny |
+|                                   → roll to answer
+3. D&D Scenario → deliberate
+4. Debrief → Professor rules
+5. Record precedent
+
+## Part 5: Advancement
+
+| Level | Requirement | Reward |
+|---|---|---|
+| Justice-Seeker | Start | Oath Score |
+| Advocate | 5 precedents | +1 ability |
+| Judge | 10 precedents | Veto 1/day |
+| Legislator | Final Paper | Rewrite one law |
+
+## Appendix: Quick Rules
+
+No combat
+No spells
+DM = Professor
+Overrule by 4/5 vote + Nat 20  F | 8–9 | Bribable Judge |
+| G | 14 | Trolley |
+| H | 17–18 | Opium Den |
+| I | 19 | Taboo Ritual |
+| J | 20–21 | Ticking Bomb |
+| K | 22 | Original Library |
+| L | 12–13 | Arena |
+| M | 15 | Ambush |
+| N | 16 | Cursed Weapon |
+
+## Part 4: Weekly Gameplay
+
+1. Read (prep)
+2. Quiz (6 pts)
+Nat 20: Binding precedent
+Nat 1: Overruled (lose 1 Oath Point)
+
+## Part 3: The Halls of Justice
+
+
+| Room | Week | Case |
+|-----|------|------|
+| A | 1–2 | Spelunkean Cave |
+| B | 5–7 | Courtroom |
+| C | 10 | Prison Escape |
+| D | 4 | Panopticon |
+| E |
+## Part 2: How To Play
+
+The Core Rule
+
+1. State your position (1 sentence)
+2. Roll d20 + relevant ability
+3. Professor sets DC
+
+| | |
+|---------|------------------|
+| DC 10 | Plausible |
+| DC 15 | Strong |
+| DC 20 | P
+subtitle: "Player Manual – Philosophy of Law D&D"
+author: "Dr. Montaque Reynolds and Grok AI"
+date: "Spring 2026"
+format:
+  pdf:
+    documentclass: scrartcl
+    classoption: [11pt,letterpaper]
+    margin: 0.75in
+    include-in-header:
+      text: |
+        \usepackage{fancyhdr}
+        \usepackage{longtable}
+        \usepackage{booktabs}
+        \usepackage{graphicx}
+        \usepackage{xcolor}
+        \usepackage{enumitem}
+        \usepackage[hidelinks]{hyperref}
+        \usepackage{form}
+        \usepackage{calc}
+        \pagestyle{fancy}
+        \fancyhead[L]{PHIL 3843 – Halls of Justice}
+        \fancyhead[R]{\thepage}
+    fig-pos: 'H'
+    toc: true
+---
+
+```{=latex}
+\tableofcontents
+\pagebreak
+
+```
+
+# Introduction
+
+Welcome to The Halls of Justice — a 24-week Dungeons & Dragons campaign where law is the game.
+
+You are a Justice-Seeker.
+
+Your weapons: reason, dice, and precedent.
+
+Your quest: answer “What is law?”
+
+This manual replaces

@@ -1,21 +1,302 @@
 project:
-  type: website
+  type: "website"
+  title: "Spring 2026 Phil Law"
+  output-dir: _output
+  render:
+    - "./index.qmd"
+    - "2025-logic/*"
+    - "2025-aesthetics/*"
 
 website:
-  title: "The Halls of Justice: A philosophical D&D campaign"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Fall 2025"
+  page-navigation: true
+  reader-mode: true
+  open-graph: true
+  twitter-card:
+    creator: "@<twitter-handle>"
+    site: "\\@<twitter-handle>"
+  favicon: "figures/icons/course_favicon.png"
+  search:
+    location: navbar
+    type: textbox
+  sidebar:
+    style: docked
+    contents:  
+    - text: "Course Introduction"
+      href: 2025-law/weeks/week01-intro/page.qmd
+    contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week01-intro/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week01-intro/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week01-intro/appendix.qmd
+
+    - text: "Fuller – *The Case of the Spelunkean Explorers*"
+      href: 2025-law/weeks/week02-fuller/page.qmd
+    contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week02-fuller/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week02-fuller/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week02-fuller/appendix.qmd
+
+    - text: "Kretzmann – *Lex Iniusta Non Est Lex*"
+      href: 2025-law/weeks/week03-kretzmann/page.qmd
+    contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week03-kretzmann/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week03-kretzmann/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week03-kretzmann/appendix.qmd
+
+- text: "Bentham – *Principles of Morals and Legislation*"
+  href: 2025-law/weeks/week04-bentham/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week04-bentham/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week04-bentham/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week04-bentham/appendix.qmd
+
+- text: "Hart – *Law as the Union of Primary and Secondary Rules*"
+  href: 2025-law/weeks/week05-hart-primary/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week05-hart-primary/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week05-hart-primary/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week05-hart-primary/appendix.qmd
+
+- text: "Dworkin – *The Model of Rules*"
+  href: 2025-law/weeks/week06-dworkin-rules/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week06-dworkin-rules/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week06-dworkin-rules/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week06-dworkin-rules/appendix.qmd
+
+- text: "Dworkin – *Integrity in Law*"
+  href: 2025-law/weeks/week07-dworkin-integrity/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week07-dworkin-integrity/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week07-dworkin-integrity/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week07-dworkin-integrity/appendix.qmd
+
+- text: "Holmes & Frank – Legal Realism"
+  href: 2025-law/weeks/week08-realism/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week08-realism/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week08-realism/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week08-realism/appendix.qmd
+
+- text: "Critical Legal Studies"
+  href: 2025-law/weeks/week09-cls/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week09-cls/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week09-cls/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week09-cls/appendix.qmd
+
+- text: "Plato – *Crito*"
+  href: 2025-law/weeks/week10-crito/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week10-crito/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week10-crito/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week10-crito/appendix.qmd
+
+- text: "Review & Exam 1 Prep"
+  href: 2025-law/weeks/week11-review-exam1/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week11-review-exam1/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week11-review-exam1/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week11-review-exam1/appendix.qmd
+
+- text: "Hart – *Postscript: Responsibility and Retribution*"
+  href: 2025-law/weeks/week12-hart-retribution/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week12-hart-retribution/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week12-hart-retribution/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week12-hart-retribution/appendix.qmd
+
+- text: "Duff – *Choice, Character, and Action*"
+  href: 2025-law/weeks/week13-duff/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week13-duff/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week13-duff/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week13-duff/appendix.qmd
+
+- text: "Parker – *Blame, Punishment and the Role of Result*"
+  href: 2025-law/weeks/week14-parker/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week14-parker/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week14-parker/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week14-parker/appendix.qmd
+
+- text: "Self-Defense"
+  href: 2025-law/weeks/week15-self-defense/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week15-self-defense/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week15-self-defense/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week15-self-defense/appendix.qmd
+
+- text: "Excuse, Justification, Subjective/Objective Liability"
+  href: 2025-law/weeks/week16-liability/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week16-liability/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week16-liability/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week16-liability/appendix.qmd
+
+- text: "Mill – *On Liberty*"
+  href: 2025-law/weeks/week17-mill/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week17-mill/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week17-mill/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week17-mill/appendix.qmd
+
+- text: "Dworkin – *Paternalism* & Griswold v. Connecticut"
+  href: 2025-law/weeks/week18-paternalism/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week18-paternalism/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week18-paternalism/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week18-paternalism/appendix.qmd
+
+- text: "Devlin – *Morals and the Criminal Law*"
+  href: 2025-law/weeks/week19-devlin/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week19-devlin/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week19-devlin/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week19-devlin/appendix.qmd
+
+- text: "The Moral Significance of Terrorism"
+  href: 2025-law/weeks/week20-terrorism/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week20-terrorism/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week20-terrorism/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week20-terrorism/appendix.qmd
+
+- text: "Dershowitz – *Should the Ticking Bomb Terrorist be Tortured?*"
+  href: 2025-law/weeks/week21-dershowitz/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week21-dershowitz/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week21-dershowitz/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week21-dershowitz/appendix.qmd
+    - text: "📄 **Paper Due**"
+      href: 2025-law/paper-guidelines.qmd
+
+- text: "Bork – *The Original Understanding*"
+  href: 2025-law/weeks/week22-bork/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week22-bork/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week22-bork/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week22-bork/appendix.qmd
+
+- text: "Student-Chosen Topic (TBD)"
+  href: 2025-law/weeks/week23-student-choice/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week23-student-choice/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week23-student-choice/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week23-student-choice/appendix.qmd
+
+- text: "Review & Final Exam Prep"
+  href: 2025-law/weeks/week24-review-final/page.qmd
+  contents:
+    - text: "👨‍🏫 Discussion Material"
+      href: 2025-law/weeks/week24-review-final/page.qmd
+    - text: "💻 Recap and Summary"
+      href: 2025-law/weeks/week24-review-final/summary.qmd
+    - text: "🔖 Appendix"
+      href: 2025-law/weeks/week24-review-final/appendix.qmd
+
+      
+        
+      navbar:
+    background: primary
+  page-footer:
+    background: light
+    left: "Copyright 2025, Montaque Reynolds"
+
+
+
+bibliography: references/Un-Duplicates.bib
+csl: references/chicago-author-date.csl
+
 
 format:
   html:
+    author: Dr. [Reynolds](#)
+    author-meta: Dr. Monty Reynolds
+    date-format: "MMM DD, YYYY"
+
+    email-obfuscation: javascript
+    link-external-newwindow: true
+    link-external-icon: true
+    link-external-filter: ^(?:http:|https:)\/\/(?:lse-dsi\.github\.io\/|localhost)
+
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light:
+        - journal
+        - css/custom.scss # I use this just to change the default colour
+    css:
+      - css/custom_style.css
+      - css/syllabus.css
     toc: true
 
-
-
+margin-header: |
+ ![](/figures/logos/logo-x2.png)
